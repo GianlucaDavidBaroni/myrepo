@@ -2,7 +2,7 @@
 title: "Hello World!"
 author: "Gianluca David Baroni"
 date: "22/04/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
