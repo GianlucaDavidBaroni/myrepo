@@ -1,2 +1,3 @@
 # myrepo
-test Rstudio
+test Rstudio;
+this is a line from RStudio
