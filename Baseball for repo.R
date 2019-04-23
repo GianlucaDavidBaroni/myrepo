@@ -1,8 +1,3 @@
-library(usethis)
-use_git_config(user.name = "GianlucaDavidBaroni", user.email = "gianlucadavid.baroni@studenti.unimi.it")
-
-getwd()
-
 library(tidyverse);library(ggplot2);library(directlabels);library(lemon)
 
 names <- c("Roberto Clemente", "Frank Robinson", "Frank Howard", "Jay Johnstone", "Ken Berry", "Jim Spencer",
