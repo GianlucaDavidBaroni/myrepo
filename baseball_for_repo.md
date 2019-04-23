@@ -75,4 +75,4 @@ Let’s see how the plot looks like
     ## [13] "Max Alvis"        "Rico Petrocelli"  "Roberto Clemente"
     ## [16] "Ron Santo"        "Ron Swoboda"      "Thurman Munson"
 
-![](baseball_for_repo_files/figure-gfm/pressure-1.png)<!-- -->
+![](baseball_for_repo_files/figure-gfm/plot-1.png)<!-- -->
